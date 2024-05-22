@@ -37,8 +37,8 @@ languages:
                   weight: 10
             #    - name: WiKi
             #      url: https://github.com/adityatelange/hugo-PaperMod/wiki/
-                - name: GitHub
-                  url: <a href="https://github.com/jonnysdavis" target="_blank">
+            #    - name: GitHub
+            #      url: <a href="https://github.com/jonnysdavis" target="_blank">
                   
 
     # fr:
@@ -139,9 +139,9 @@ params:
     homeInfoParams:
         Title: "Information Yearns to be Free"
         Content: >
-            Welcome to my website. Why are you here?
+            Welcome to my website.
 
-            - Did you find what you were looking for?
+            - I hope you find what you're looking for.
     socialIcons:
         - name: github
           url: "https://github.com/jonnysdavis"
