@@ -133,7 +133,7 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "time.Format"
+        Title: "{{time.Format}}"
 #        Content: >
 #
    #        - I hope you find whatever it is you are looking for.
