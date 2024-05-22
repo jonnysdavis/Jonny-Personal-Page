@@ -39,8 +39,6 @@ languages:
             #      url: https://github.com/adityatelange/hugo-PaperMod/wiki/
             #    - name: GitHub
             #      url: <a href="https://github.com/jonnysdavis" target="_blank">
-                  
-
     # fr:
     #     languageName: ":fr:"
     #     languageAltTitle: French
@@ -79,7 +77,6 @@ languages:
     #               weight: 10
     #             - name: NullLink
     #               url: "#"
-
     # fa:
     #     languagedirection: rtl
     #     weight: 3
@@ -96,7 +93,6 @@ languages:
     #             - name: FATags
     #               url: fatags
     #               weight: 10
-
 outputs:
     home:
         - HTML
@@ -137,20 +133,17 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "Welcome 👋"
-        Content: >
-
+        Title: "time.Format"
+#        Content: >
+#
    #        - I hope you find whatever it is you are looking for.
-
    #       - At an invitation only Hacker Confrence in 1984, Stewart Brand remarked on how the price of information gets pulled in multiple directions. I beleive this concept should be adapted into a new ethos that personifies the information itself. In the modern era, information not only wants to be free, but it in fact <b><i>yearns</b></i> to be free.
    #        
    #       - 
 #
  #         - A member of the confrence resonded to this now famous statement stating that <blockqoute><i>"Information should be free, but your time should not."</i></blockqoute>
 #          #  Welcome to my website.
-
            # - I hope you find what you're looking for.
-#
 #            - {{< video "https://media.gettyimages.com/id/146496695/video/stewart-brand-states-information-wants-to-be-free.mp4?s=mp4-640x640-gi&k=20&c=7Q5uqxZ3jiAhKYMRKpUxiaiq2tBzrtVJ7kHeSmuNipw=" "Getty Images" >}}
 
     socialIcons:
