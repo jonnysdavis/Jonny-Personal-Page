@@ -38,7 +38,7 @@ languages:
             #    - name: WiKi
             #      url: https://github.com/adityatelange/hugo-PaperMod/wiki/
                 - name: GitHub
-                  url: https://github.com/jonnysdavis target="_blank"
+                  url: <a href="https://github.com/jonnysdavis" target="_blank">
                   
 
     # fr:
