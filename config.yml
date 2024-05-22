@@ -105,7 +105,7 @@ outputs:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-    author: Theme PaperMod
+    author: "Jonny Davis"
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: auto
@@ -124,7 +124,7 @@ params:
 
     profileMode:
         enabled: false
-        title: PaperMod
+        title: "Jonny Davis"
         imageUrl: "#"
         imageTitle: my image
         # imageWidth: 120
@@ -150,7 +150,7 @@ params:
   #        url: "index.xml"
 
     editPost:
-        URL: "https://github.com/jonnysdavis/Jonny-Personal-Page/tree/main/content"
+        URL: "https://github.com/jonnysdavis/Jonny-Personal-Page/tree/main/content/posts"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
