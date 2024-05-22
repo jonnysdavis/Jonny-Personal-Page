@@ -121,7 +121,8 @@ params:
 
     profileMode:
         enabled: true
-        title: "Expierenced Technical Writer with a background in IT and Software Engineering. Open to the right oppurtunity with a great team.
+        title: "Expierenced Technical Writer with a background in IT and Software Engineering. Open to the interesting oppurtunity with a great team."
+        subtitle: "B.A. in Economics from the Unviversity of Maryland, with a Minor in Creative Writing."
         imageUrl: "https://avatars.githubusercontent.com/u/6186465?s=400&u=4723e5ecd89a54217d62d92a7bdba6047b83f2b4&v=4"
         imageTitle: "Head Shot"
         # imageWidth: 120
