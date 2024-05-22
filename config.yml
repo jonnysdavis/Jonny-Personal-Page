@@ -142,9 +142,9 @@ params:
             Welcome to my website.
 
             - I hope you find what you're looking for.
-    socialIcons:
-        - name: github
-          url: "https://github.com/jonnysdavis"
+  #  socialIcons:
+  #      - name: github
+  #        url: "https://github.com/jonnysdavis"
   #     - name: KoFi
   #        url: "https://ko-fi.com/adityatelange"
   #      - name: Rss
