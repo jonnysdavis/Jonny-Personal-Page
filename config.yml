@@ -139,13 +139,13 @@ params:
     homeInfoParams:
         Title: "Information Yearns to be Free"
         Content: >
-            Welcome to my website.
+          #  Welcome to my website.
 
-            - I hope you find what you're looking for.
+           # - I hope you find what you're looking for.
 
             - At an invitation only Hacker Confrence in 1984, Stewart Brand remarked on how the price of information gets pulled in multiple directions. I beleive this ethos should be updated in way that personifies the information itself. In the modern era, information not only wants to be free, but it in fact <b><i>yearns</b></i> to be free.
 
-            - {{< video "https://media.gettyimages.com/id/146496695/video/stewart-brand-states-information-wants-to-be-free.mp4?s=mp4-640x640-gi&k=20&c=7Q5uqxZ3jiAhKYMRKpUxiaiq2tBzrtVJ7kHeSmuNipw=" "Getty Images" >}}
+          #  - {{< video "https://media.gettyimages.com/id/146496695/video/stewart-brand-states-information-wants-to-be-free.mp4?s=mp4-640x640-gi&k=20&c=7Q5uqxZ3jiAhKYMRKpUxiaiq2tBzrtVJ7kHeSmuNipw=" "Getty Images" >}}
 
   #  socialIcons:
   #      - name: github
