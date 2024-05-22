@@ -157,9 +157,9 @@ params:
       - name: github
         url: "https://github.com/jonnysdavis"
       - name: KoFi
-         url: "https://ko-fi.com/jonnydavis"
+        url: "https://ko-fi.com/jonnydavis"
       - name: Rss
-         url: "index.xml"
+        url: "index.xml"
 
     editPost:
         URL: "https://github.com/jonnysdavis/Jonny-Personal-Page/tree/main/content/posts"
