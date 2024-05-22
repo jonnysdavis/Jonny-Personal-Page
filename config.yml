@@ -162,7 +162,7 @@ params:
 
      analytics:
          google:
-             SiteVerificationTag: "G-4R6KLTYXYM"
+             SiteVerificationTag: G-4R6KLTYXYM
 
     assets:
         disableHLJS: true
