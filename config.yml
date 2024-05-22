@@ -120,7 +120,7 @@ params:
     images: ["papermod-cover.png"]
 
     profileMode:
-        enabled: false
+        enabled: true
         title: "Jonny Davis"
         imageUrl: "#"
         imageTitle: my image
