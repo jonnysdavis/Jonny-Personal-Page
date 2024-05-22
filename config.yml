@@ -143,11 +143,11 @@ params:
             - Did you find what you were looking for?
     socialIcons:
         - name: github
-          url: "https://github.com/adityatelange/hugo-PaperMod"
-        - name: KoFi
-          url: "https://ko-fi.com/adityatelange"
-        - name: Rss
-          url: "index.xml"
+          url: "https://github.com/jonnysdavis"
+  #     - name: KoFi
+  #        url: "https://ko-fi.com/adityatelange"
+  #      - name: Rss
+  #        url: "index.xml"
 
     editPost:
         URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
