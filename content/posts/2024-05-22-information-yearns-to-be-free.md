@@ -29,7 +29,7 @@ UseHugoToc: false
 ---
 <blockquote cite="https://www.gettyimages.in/detail/video/at-the-first-hackers-conference-in-1984-steve-wozniak-and-news-footage/146496695">
   <p>On the one hand you have—the point you’re making Woz—is that information sort of wants to be expensive because it is so valuable—the right information in the right place just changes your life. On the other hand, information almost wants to be free because the costs of getting it out is getting lower and lower all of the time. So you have these two things fighting against each other</p>
-  <footer>—Stewart Brand, <cite>[Hacker Confrence, 1984](https://en.wikipedia.org/wiki/The_Hackers_Conference)</cite></footer>
+  <footer>—Stewart Brand, <cite>Hacker Confrence, 1984 </footer>
 </blockquote>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
