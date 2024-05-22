@@ -132,10 +132,10 @@ params:
               url: archives
             - name: Tags
               url: tags
-            - phone: Phone
-              url: "<a href="tel:3015000249">3015000249</a>"
-            - email: Email
-              url: "<a href="mailto:jonnysdavis@gmail.com">jonnysdavis@gmail.com</a>""
+            # - phone: Phone
+            #   url: "<a href="tel:3015000249">3015000249</a>"
+            # - email: Email
+            #   url: "<a href="mailto:jonnysdavis@gmail.com">jonnysdavis@gmail.com</a>""
     homeInfoParams:
         Title: "Information Yearns To Be Free"
 #        Content: >
