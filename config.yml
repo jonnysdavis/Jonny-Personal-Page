@@ -35,66 +35,66 @@ languages:
                 - name: Tags
                   url: tags/
                   weight: 10
-                - name: WiKi
+            #    - name: WiKi
                   url: https://github.com/adityatelange/hugo-PaperMod/wiki/
-                - name: Discord
-                  url: https://discord.gg/ahpmTvhVmp
+                - name: GitHub
+                  url: https://github.com/jonnysdavis
 
-    fr:
-        languageName: ":fr:"
-        languageAltTitle: French
-        weight: 2
-        title: PaperModL2
-        taxonomies:
-          category: FRcategories
-          tag: FRtags
-          series: FRseries
-        profileMode:
-            enabled: true
-            title: PaperMod
-            imageUrl: "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f317.svg"
-            imageTitle: ProfileMode image
-            # imageWidth: 120
-            # imageHeight: 120
-            subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
-            buttons:
-                - name: Blog
-                  url: posts
-                - name: Profile Mode
-                  url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
-        menu:
-            main:
-                - name: Archive
-                  url: archives/
-                  weight: 5
-                - name: FRTags
-                  url: frtags
-                  weight: 10
-                - name: FRCategories
-                  url: frcategories
-                  weight: 10
-                - name: FRSeries
-                  url: frseries
-                  weight: 10
-                - name: NullLink
-                  url: "#"
+    # fr:
+    #     languageName: ":fr:"
+    #     languageAltTitle: French
+    #     weight: 2
+    #     title: PaperModL2
+    #     taxonomies:
+    #       category: FRcategories
+    #       tag: FRtags
+    #       series: FRseries
+    #     profileMode:
+    #         enabled: true
+    #         title: PaperMod
+    #         imageUrl: "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f317.svg"
+    #         imageTitle: ProfileMode image
+    #         # imageWidth: 120
+    #         # imageHeight: 120
+    #         subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+    #         buttons:
+    #             - name: Blog
+    #               url: posts
+    #             - name: Profile Mode
+    # #               url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
+    #      menu:
+    #         main:
+    #             - name: Archive
+    #               url: archives/
+    #               weight: 5
+    #             - name: FRTags
+    #               url: frtags
+    #               weight: 10
+    #             - name: FRCategories
+    #               url: frcategories
+    #               weight: 10
+    #             - name: FRSeries
+    #               url: frseries
+    #               weight: 10
+    #             - name: NullLink
+    #               url: "#"
 
-    fa:
-        languagedirection: rtl
-        weight: 3
-        title: PaperMod RTL
-        homeInfoParams:
-            Title: "Hi there \U0001F44B"
-            Content: Welcome to RTL layout
-        taxonomies:
-          category: FAcategories
-          tag: FAtags
-          series: FAseries
-        menu:
-            main:
-                - name: FATags
-                  url: fatags
-                  weight: 10
+    # fa:
+    #     languagedirection: rtl
+    #     weight: 3
+    #     title: PaperMod RTL
+    #     homeInfoParams:
+    #         Title: "Hi there \U0001F44B"
+    #         Content: Welcome to RTL layout
+    #     taxonomies:
+    #       category: FAcategories
+    #       tag: FAtags
+    #       series: FAseries
+    #     menu:
+    #         main:
+    #             - name: FATags
+    #               url: fatags
+    #               weight: 10
 
 outputs:
     home:
@@ -140,12 +140,7 @@ params:
         Content: >
             Welcome to my website. Why are you here?
 
-            # - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX. This starter supports editing posts with NetlifyCMS, login at /admin. Most other configs (including this message!) happen in config.yml in the root directory.
-
-            # - Do give a 🌟 on Github !
-
-            # - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
-
+            - Did you find what you were looking for?
     socialIcons:
         - name: github
           url: "https://github.com/adityatelange/hugo-PaperMod"
