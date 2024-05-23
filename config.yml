@@ -122,7 +122,7 @@ params:
     profileMode:
         enabled: true
         title: "jonnydav.is"
-        subtitle: "Expierenced Technical Writer with a background in IT and Software Engineering. Open to the interesting oppurtunity with a great team.</br>B.A. in Economics from the Unviversity of Maryland, with a Minor in Creative Writing. CompTIA A+ Lifetime Cetificaiton."
+        subtitle: "Expierenced Technical Writer with a background in IT and Software Engineering.</br>Open to interesting opportunities with great teams.</br>B.A. in Economics from the Unviversity of Maryland, with a Minor in Creative Writing./br>Lifetime CompTIA A+ Cetificaiton."
         imageUrl: "https://avatars.githubusercontent.com/u/6186465?s=400&u=4723e5ecd89a54217d62d92a7bdba6047b83f2b4&v=4"
         imageTitle: "Head Shot"
         # imageWidth: 120
