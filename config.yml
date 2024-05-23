@@ -132,10 +132,6 @@ params:
               url: archives
             - name: Tags
               url: tags
-            - name: Phone
-              url: [Phone]("tel:3015000249")
-            - email: email
-              url: [Email](mailto:someone@example.com)
             # - email: Email
             #   url: "<a href="mailto:jonnysdavis@gmail.com">jonnysdavis@gmail.com</a>""
     homeInfoParams:
@@ -159,7 +155,10 @@ params:
         url: "https://ko-fi.com/jonnydavis"
       - name: Rss
         url: "index.xml"
-
+      - name: Phone
+        url: "tel:3015000249"
+      - email: email
+        url: "mailto:jonnysdavis@gmail.com"
     editPost:
         URL: "https://github.com/jonnysdavis/Jonny-Personal-Page/tree/main/content/posts"
         Text: "Suggest Changes" # edit text
