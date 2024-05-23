@@ -159,9 +159,9 @@ params:
       - name: Rss
         url: "index.xml"
       - name: phone
-        url: <3015000249>
+        url: "(301)-500-0249"
       - email: email
-        url: <jonnysdavis@gmail.com>
+        url: "jonnysdavis@gmail.com"
 
     editPost:
         URL: "https://github.com/jonnysdavis/Jonny-Personal-Page/tree/main/content/posts"
