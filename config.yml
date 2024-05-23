@@ -123,10 +123,10 @@ params:
         enabled: true
         title: "jonnydav.is"
         subtitle: "
-                    - Expierenced Technical Writer with a background in both IT and Software Engineering.
-                    - Open to interesting opportunities with a great teams.
-                    - B.A. in Economics from the Unviversity of Maryland, with a Minor in Creative Writing.
-                    - Founding Organizer of UMD's Bitcamp hackathon. "
+                    <p>Expierenced Technical Writer with a background in both IT and Software Engineering.</p>
+                    <p>Open to interesting opportunities with a great teams.</p>
+                    <p>B.A. in Economics from the Unviversity of Maryland, with a Minor in Creative Writing.</p>
+                    <p>Founding Organizer of UMD's Bitcamp hackathon.</p>
                 
         imageUrl: "https://avatars.githubusercontent.com/u/6186465?s=400&u=4723e5ecd89a54217d62d92a7bdba6047b83f2b4&v=4"
         imageTitle: "Head Shot"
@@ -140,8 +140,8 @@ params:
 
             # - email: Email
             #   url: "<a href="mailto:jonnysdavis@gmail.com">jonnysdavis@gmail.com</a>""
-    homeInfoParams:
-        Title: "Information Yearns To Be Free"
+ #   homeInfoParams:
+  #      Title: "Information Yearns To Be Free"
 #        Content: >
 #
    #        - I hope you find whatever it is you are looking for.
@@ -162,9 +162,9 @@ params:
       - name: Rss
         url: "index.xml"
       - name: phone
-        url: (phone)"3015000249"
+        url: <3015000249>
       - email: email
-        url: (email)"jonnysdavis@gmail.com"
+        url: <jonnysdavis@gmail.com>
 
     editPost:
         URL: "https://github.com/jonnysdavis/Jonny-Personal-Page/tree/main/content/posts"
