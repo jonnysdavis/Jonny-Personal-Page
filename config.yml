@@ -124,7 +124,7 @@ params:
                     <p>Expierenced Technical Writer with a background in both IT and Software Engineering.</p>
                     <p>Currently open to interesting opportunities with a great teams.</p>
                     <p>B.A. in Economics from the Unviversity of Maryland, with a Minor in Creative Writing.</p>
-                    <p>Founding Organizer of UMD's Bitcamp hackathon.</p>"
+                    <p>Served as a Founding Organizer of UMD's Bitcamp hackathon.</p>
                 
         imageUrl: "https://avatars.githubusercontent.com/u/6186465?s=400&u=4723e5ecd89a54217d62d92a7bdba6047b83f2b4&v=4"
         imageTitle: "Head Shot"
@@ -135,8 +135,8 @@ params:
               url: archives
             - name: Tags
               url: tags
-            # - email: Email
-            #   url: "<a href="mailto:jonnysdavis@gmail.com">jonnysdavis@gmail.com</a>""
+            - email: Email
+              url: "jonnysdavis@gmail.com"
  #   homeInfoParams:
   #      Title: "Information Yearns To Be Free"
 #        Content: >
@@ -150,7 +150,6 @@ params:
 #          #  Welcome to my website.
            # - I hope you find what you're looking for.
 #            - {{< video "https://media.gettyimages.com/id/146496695/video/stewart-brand-states-information-wants-to-be-free.mp4?s=mp4-640x640-gi&k=20&c=7Q5uqxZ3jiAhKYMRKpUxiaiq2tBzrtVJ7kHeSmuNipw=" "Getty Images" >}}
-
     socialIcons:
       - name: "github"
         url: "https://github.com/jonnysdavis"
