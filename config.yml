@@ -152,15 +152,15 @@ params:
 #            - {{< video "https://media.gettyimages.com/id/146496695/video/stewart-brand-states-information-wants-to-be-free.mp4?s=mp4-640x640-gi&k=20&c=7Q5uqxZ3jiAhKYMRKpUxiaiq2tBzrtVJ7kHeSmuNipw=" "Getty Images" >}}
 
     socialIcons:
-      - name: github
+      - name: "github"
         url: "https://github.com/jonnysdavis"
-      - name: KoFi
+      - name: "KoFi"
         url: "https://ko-fi.com/jonnydavis"
-      - name: Rss
+      - name: "Rss"
         url: "index.xml"
-      - name: phone
+      - name: "phone"
         url: "(301)-500-0249"
-      - email: email
+      - email: "email"
         url: "jonnysdavis@gmail.com"
 
     editPost:
