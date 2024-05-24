@@ -137,11 +137,11 @@ params:
               url: tags
             - email: Email
               url: "jonnysdavis@gmail.com"
- #   homeInfoParams:
-  #      Title: "Information Yearns To Be Free"
-#        Content: >
-#
-   #        - I hope you find whatever it is you are looking for.
+    homeInfoParams:
+        Title: "Information Yearns To Be Free"
+        Content: >
+
+           - I hope you find whatever it is you are looking for.
    #       - At an invitation only Hacker Confrence in 1984, Stewart Brand remarked on how the price of information gets pulled in multiple directions. I beleive this concept should be adapted into a new ethos that personifies the information itself. In the modern era, information not only wants to be free, but it in fact <b><i>yearns</b></i> to be free.
    #        
    #       - 
