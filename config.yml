@@ -118,7 +118,7 @@ params:
     images: ["papermod-cover.png"]
 
     profileMode:
-        enabled: true
+        enabled: false
         title: "jonnydav.is"
         subtitle:
                     <p>Expierenced Technical Writer with a background in both IT and Software Engineering.</p>
@@ -153,8 +153,8 @@ params:
     socialIcons:
       - name: "github"
         url: "https://github.com/jonnysdavis"
-      - name: "KoFi"
-        url: "https://ko-fi.com/jonnydavis"
+#      - name: "KoFi"
+#        url: "https://ko-fi.com/jonnydavis"
       - name: "Rss"
         url: "index.xml"
       - name: "phone"
