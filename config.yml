@@ -140,7 +140,6 @@ params:
     homeInfoParams:
         Title: "Information Yearns To Be Free"
         Content: >
-
            - I hope you find whatever it is you are looking for.
    #       - At an invitation only Hacker Confrence in 1984, Stewart Brand remarked on how the price of information gets pulled in multiple directions. I beleive this concept should be adapted into a new ethos that personifies the information itself. In the modern era, information not only wants to be free, but it in fact <b><i>yearns</b></i> to be free.
    #        
@@ -161,16 +160,15 @@ params:
         url: "(301)-500-0249"
       - email: "email"
         url: "jonnysdavis@gmail.com"
-
     editPost:
         URL: "https://github.com/jonnysdavis/Jonny-Personal-Page/tree/main/content/posts"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
-    label:
-         text: "Home"
-         icon: icon.png
-         iconHeight: 35
+    #label:
+    #     text: "Home"
+    #     icon: icon.png
+    #     iconHeight: 35
 
     # analytics:
     #     google:
