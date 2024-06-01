@@ -35,13 +35,11 @@ UseHugoToc: false
 
 <!--EndFragment-->
 
-
-
 <!--StartFragment-->
 
 # NeuroPlant
 
-It was challenging to focus on the soldering iron in front of me when she was in the room. Lorraine’s waist-length mocha hair cascaded down her face, and I couldn’t help but gaze whenever she absentmindedly brushed it behind her ear. Unfortunately, this almost led to a collision with the liquid metal in front of me.
+It was challenging to focus on the soldering iron in front of me when she was in the room. Lorraine’s waist-length dark-brown hair cascaded down her face, and I couldn’t help but gaze whenever she absentmindedly brushed it behind her ear. Unfortunately, this almost led to a collision with the liquid metal in front of me.
 
 “Shit. That was close.” A piece of molten liquid had almost come into contact with my finger.
 
