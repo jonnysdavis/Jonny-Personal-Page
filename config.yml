@@ -131,6 +131,7 @@ params:
         # imageWidth: 120
         # imageHeight: 120
         buttons:
+            
             - name: Archives
               url: archives
             - name: Tags
@@ -154,10 +155,10 @@ params:
         url: "https://github.com/jonnysdavis"
 #      - name: "KoFi"
 #        url: "https://ko-fi.com/jonnydavis"
-      - name: "Rss"
-        url: "index.xml"
+#      - name: "Rss"
+#        url: "index.xml"
       - name: "phone"
-        url: "(301)-500-0249"
+        url: <a href = "tel:3015000249">
       - email: "email"
         url: "jonnysdavis@gmail.com"
     editPost:
