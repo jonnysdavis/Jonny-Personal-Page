@@ -31,11 +31,15 @@ UseHugoToc: false
 ---
 <!--StartFragment-->
 
+*The story below was written while I was a student at the University of Maryland working to complete a minor in Creative Writing. Thank you everyone who helped workshop this story with me in class.*
 
+<!--EndFragment-->
+
+
+
+<!--StartFragment-->
 
 # NeuroPlant
-
-
 
 It was challenging to focus on the soldering iron in front of me when she was in the room. Lorraine’s waist-length mocha hair cascaded down her face, and I couldn’t help but gaze whenever she absentmindedly brushed it behind her ear. Unfortunately, this almost led to a collision with the liquid metal in front of me.
 
@@ -213,17 +217,11 @@ She could only recognize characters she’s seen before. The pieces from other l
 
 We stood up in unison and Lorraine generously offered another hug. As soon as she left, I began to prepare a manual for her on how to use the program. As I walked back to my desk, an idea struck me. If she could see multiple lines of text at once, maybe I could send her something that looked like a picture. I opened a word processor and began to experiment.
 
-
-
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXdeYitnbxmQhA_DaiOFBbylTgAC6bts9kixoMXpEnDfcTaJL7rt-4eB7HWREBrU_Va_e87rYWkArymSMIAhx1elL7VCGGcd2Ts3uJZ7qBlHoRKk1avQop8ySsgbbbZshRFdcgLvGKzBVhJJN_MWtGPnIEXmtKS25Iq5?key=dmDQq41B9F9qnDHO4fTfPw)
-
-
 
 It was unimpressive, but a fun way of creating different fonts. This system probably wouldn’t be worthwhile in comparison to the text that the program makes originally, but it led to another idea.
 
-
-
-      _\|/^\
+      _|/^\
       (_oo /\
       /-|--/\
       \ |\
@@ -275,7 +273,5 @@ Together we stared at the clouds passing overhead. Even though it was something 
 “What’s it look like?”
 
 “Shut up,” she said, as she leaned in close to me and nudged my arm.  She pressed her lips against mine, and we shared our first kiss.
-
-
 
 <!--EndFragment-->
