@@ -5,7 +5,7 @@ tags:
   - Fiction
 categories: Fiction
 description: A loveblind hacker ready to go to any length to create a device to
-  improve the life of his sigh-impaired labmate.
+  improve the life of his sight-impaired labmate.
 weight: 0
 cover:
   hidden: false
