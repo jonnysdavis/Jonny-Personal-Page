@@ -273,3 +273,7 @@ Together we stared at the clouds passing overhead. Even though it was something 
 “Shut up,” she said, as she leaned in close to me and nudged my arm.  She pressed her lips against mine, and we shared our first kiss.
 
 <!--EndFragment-->
+
+<!--StartFragment-->
+*This story was written while I was a student at the University of Maryland working towards earning a minor in Creative Writing. My thanks go out to the incredibly supportive writing professors and to all the students who helped workshop this story with me.*
+<!--EndFragment-->
