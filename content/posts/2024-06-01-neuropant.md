@@ -30,15 +30,6 @@ ShowRssButtonInSectionTermList: false
 UseHugoToc: false
 ---
 <!--StartFragment-->
-
-*The story below was written while I was a student at the University of Maryland working to complete a minor in Creative Writing. Thank you everyone who helped workshop this story with me in class.*
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-# NeuroPlant
-
 It was challenging to focus on the soldering iron in front of me when she was in the room. Lorraine’s waist-length dark-brown hair cascaded down her face, and I couldn’t help but gaze whenever she absentmindedly brushed it behind her ear. Unfortunately, this almost led to a collision with the liquid metal in front of me.
 
 “Shit. That was close.” A piece of molten liquid had almost come into contact with my finger.
