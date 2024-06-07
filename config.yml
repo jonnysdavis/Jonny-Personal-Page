@@ -145,6 +145,7 @@ params:
             - {{< video "https://media.gettyimages.com/id/146496695/video/stewart-brand-states-information-wants-to-be-free.mp4?s=mp4-640x640-gi&k=20&c=7Q5uqxZ3jiAhKYMRKpUxiaiq2tBzrtVJ7kHeSmuNipw=" "Getty Images" >}}
            
     socialIcons:
+        -
         - name: "email"
         url: "mailto:jonnysdavis@gmail.com"
         - name: "phone"
