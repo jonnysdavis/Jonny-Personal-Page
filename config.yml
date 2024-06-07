@@ -32,9 +32,6 @@ languages:
                 - name: Search
                   url: search/
                   weight: 10
-                - name: Contact
-                  URL: "mailto:jonnysdavis@gmail.com"
-                  
             #    - name: Tags
             #      url: tags/
             #      weight: 10
@@ -139,21 +136,22 @@ params:
               url: archives
             - name: Tags
               url: tags
-            - email: Email
-              url: "jonnysdavis@gmail.com"
+            - email: Contact
+              url: contact
     homeInfoParams:
         Title: "Information Yearns To Be Free"
         Content: >
             - I hope you find whatever it is you are looking for.
-#           - {{< video "https://media.gettyimages.com/id/146496695/video/stewart-brand-states-information-wants-to-be-free.mp4?s=mp4-640x640-gi&k=20&c=7Q5uqxZ3jiAhKYMRKpUxiaiq2tBzrtVJ7kHeSmuNipw=" "Getty Images" >}}
+            - Maybe the information you seek is too expensive for you or I to access. {{< video "https://media.gettyimages.com/id/146496695/video/stewart-brand-states-information-wants-to-be-free.mp4?s=mp4-640x640-gi&k=20&c=7Q5uqxZ3jiAhKYMRKpUxiaiq2tBzrtVJ7kHeSmuNipw=" "Getty Images" >}}
            
     socialIcons:
-#        - name: "github"
-#        url: "https://github.com/jonnysdavis"
-#        - name: "email"
-#        url: "mailto:jonnysdavis@gmail.com"
-#        - name: "phone"
-#        url: "{{tel:+13015000249}}"
+        -
+        - name: "email"
+        url: "mailto:jonnysdavis@gmail.com"
+        - name: "phone"
+        url: "{{tel:+13015000249}}"
+        - name: "github"
+        url: "https://github.com/jonnysdavis"
 #      - name: "KoFi"
 #        url: "https://ko-fi.com/jonnydavis"
 #      - name: "Rss"
