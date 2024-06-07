@@ -121,10 +121,6 @@ params:
         enabled: false
         title: "jonnydav.is"
         subtitle:
-                    <p>Expierenced Technical Writer with a background in both IT and Software Engineering.</p>
-                    <p>Currently open to interesting opportunities with a great teams.</p>
-                    <p>B.A. in Economics from the Unviversity of Maryland, with a Minor in Creative Writing.</p>
-                    <p>Served as a Founding Organizer of UMD's Bitcamp hackathon.</p>
                 
         imageUrl: "https://avatars.githubusercontent.com/u/6186465?s=400&u=4723e5ecd89a54217d62d92a7bdba6047b83f2b4&v=4"
         imageTitle: "Head Shot"
@@ -142,11 +138,12 @@ params:
         Title: "Information Yearns To Be Free"
         Content: >
             - I hope you find whatever it is you are looking for.
-            - Maybe the information you seek is too expensive for you or I to access. {{< video "https://media.gettyimages.com/id/146496695/video/stewart-brand-states-information-wants-to-be-free.mp4?s=mp4-640x640-gi&k=20&c=7Q5uqxZ3jiAhKYMRKpUxiaiq2tBzrtVJ7kHeSmuNipw=" "Getty Images" >}}
+            - Maybe the information you seek is too expensive for you or I to access. 
+- {{< video "https://media.gettyimages.com/id/146496695/video/stewart-brand-states-information-wants-to-be-free.mp4?s=mp4-640x640-gi&k=20&c=7Q5uqxZ3jiAhKYMRKpUxiaiq2tBzrtVJ7kHeSmuNipw=" "Getty Images" >}}
            
     socialIcons:
-     #   - name: "email"
-     #    url: "mailto:jonnysdavis@gmail.com"
+       - name: "email"
+       url: "mailto:jonnysdavis@gmail.com"
         - name: "phone"
         url: "{{tel:+13015000249}}"
         - name: "github"
