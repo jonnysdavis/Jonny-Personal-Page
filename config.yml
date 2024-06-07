@@ -148,13 +148,13 @@ params:
     socialIcons:
     {{ $gVoice := "tel+13015000249" }}
       - name: "github"
-        url: "https://github.com/jonnysdavis"
+         url: "https://github.com/jonnysdavis"
 #      - name: "KoFi"
 #        url: "https://ko-fi.com/jonnydavis"
 #      - name: "Rss"
 #        url: "index.xml"
       - name: "phone"
-      - url: "{{ $gVoice | safeURL }}"
+        url: "{{ $gVoice | safeURL }}"
       - name: "email"
         url: "mailto:jonnysdavis@gmail.com"
 
