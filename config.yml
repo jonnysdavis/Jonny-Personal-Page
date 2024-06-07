@@ -32,6 +32,9 @@ languages:
                 - name: Search
                   url: search/
                   weight: 10
+                - name: Contact
+                  URL: "mailto:jonnysdavis@gmail.com"
+                  
             #    - name: Tags
             #      url: tags/
             #      weight: 10
