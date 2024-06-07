@@ -150,7 +150,7 @@ params:
 #          #  Welcome to my website.
            # - I hope you find what you're looking for.
 #            - {{< video "https://media.gettyimages.com/id/146496695/video/stewart-brand-states-information-wants-to-be-free.mp4?s=mp4-640x640-gi&k=20&c=7Q5uqxZ3jiAhKYMRKpUxiaiq2tBzrtVJ7kHeSmuNipw=" "Getty Images" >}}
-    {{ $gVoice := "+13015000249" }}
+    {{ $gVoice := "tel+13015000249" }}
     socialIcons:
       - name: "github"
         url: "https://github.com/jonnysdavis"
@@ -159,7 +159,7 @@ params:
 #      - name: "Rss"
 #        url: "index.xml"
       - name: "phone"
-        url: "tel:{{ $gVoice | safeURL }}"
+        url: "<a href={{ $gVoice | safeURL }}>"
       - name: "email"
         url: "mailto:jonnysdavis@gmail.com"
 
