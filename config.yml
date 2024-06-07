@@ -11,7 +11,7 @@ buildExpired: false
 pygmentsUseClasses: true
 enableEmoji: true
 # googleAnalytics: UA-123-45
-{{ $gVoice := "tel+13015000249" }}
+
 minify:
     disableXML: true
     # minifyOutput: true
@@ -146,6 +146,7 @@ params:
            
    
     socialIcons:
+    {{ $gVoice := "tel+13015000249" }}
       - name: "github"
         url: "https://github.com/jonnysdavis"
 #      - name: "KoFi"
