@@ -11,7 +11,7 @@ buildExpired: false
 pygmentsUseClasses: true
 enableEmoji: true
 # googleAnalytics: UA-123-45
-
+{{ $gVoice := "tel+13015000249" }}
 minify:
     disableXML: true
     # minifyOutput: true
@@ -116,7 +116,7 @@ params:
     ShowToc: true
     comments: true
     images: ["papermod-cover.png"]
-     {{ $gVoice := "tel+13015000249" }}
+     
     profileMode:
         enabled: false
         title: "jonnydav.is"
@@ -153,7 +153,7 @@ params:
 #      - name: "Rss"
 #        url: "index.xml"
       - name: "phone"
-        url: "<a href={{ $gVoice | safeURL }}>"
+        url: "{ $gVoice | safeURL }}>"
       - name: "email"
         url: "mailto:jonnysdavis@gmail.com"
 
