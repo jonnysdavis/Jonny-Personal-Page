@@ -153,7 +153,7 @@ params:
 #      - name: "Rss"
 #        url: "index.xml"
       - name: "phone"
-        url: "{{ $gVoice | safeURL }}"
+      - url: "{{ $gVoice | safeURL }}"
       - name: "email"
         url: "mailto:jonnysdavis@gmail.com"
 
