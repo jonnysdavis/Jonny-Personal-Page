@@ -142,20 +142,20 @@ params:
         Title: "Information Yearns To Be Free"
         Content: >
             - I hope you find whatever it is you are looking for.
-           # - {{< video "https://media.gettyimages.com/id/146496695/video/stewart-brand-states-information-wants-to-be-free.mp4?s=mp4-640x640-gi&k=20&c=7Q5uqxZ3jiAhKYMRKpUxiaiq2tBzrtVJ7kHeSmuNipw=" "Getty Images" >}}
+            - {{< video "https://media.gettyimages.com/id/146496695/video/stewart-brand-states-information-wants-to-be-free.mp4?s=mp4-640x640-gi&k=20&c=7Q5uqxZ3jiAhKYMRKpUxiaiq2tBzrtVJ7kHeSmuNipw=" "Getty Images" >}}
            
     socialIcons:
-#      - name: "KoFi"
-#        url: "https://ko-fi.com/jonnydavis"
-#      - name: "Rss"
-#        url: "index.xml"
         - name: "email"
         url: "mailto:jonnysdavis@gmail.com"
         - name: "phone"
         url: "{{tel:+13015000249}}"
         - name: "github"
         url: "https://github.com/jonnysdavis"
-        
+#      - name: "KoFi"
+#        url: "https://ko-fi.com/jonnydavis"
+#      - name: "Rss"
+#        url: "index.xml"
+
     editPost:
         URL: "https://github.com/jonnysdavis/Jonny-Personal-Page/tree/main/content/posts"
         Text: "Suggest Changes" # edit text
